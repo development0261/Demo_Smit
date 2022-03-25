@@ -1,6 +1,7 @@
 # Demo_Smit
 This Repository is for only for learning perpose 
 
+##CONFIGURE TOOLING
 
 ```sh
 >> $git config --global user.name "smit"
@@ -17,6 +18,7 @@ This Repository is for only for learning perpose
    commit
 - In abow case its development0261@gmail.com
 
+##CREATE REPOSITORIES
 
 ```sh
 >> $git init
@@ -29,6 +31,8 @@ This Repository is for only for learning perpose
 ```
 - to download the Hole project that exist in "Demo_Smit" Repository
 
+##MAKE CHANGES
+
 ```sh
 >> $git status
 ```
@@ -37,7 +41,24 @@ This Repository is for only for learning perpose
 - if you familiar with Django so it work similer as 
    makemigrations
 
+##REFACTOR FILENAMES
+```sh
+>> $git rm hello.html
+-  This command is use to delete from current Repository as well as delete from our local machine directory
+```
 
 ```sh
->> $git 
+>> $git rm --cashed hello.html
+-  This command is use to delete from current Repository but not from our local machine directory 
+```
+
+```sh
+>> $git mv hello.html index.html
+-  This command is use to Rename file hello.html to index.html
+
+```
+##REVIEW HISTORY
+```sh
+>> $git log
+-  It gives us list of all commits history of current branch
 ```
