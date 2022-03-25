@@ -57,11 +57,7 @@ This Repository is for only for learning perpose
 -  This command is use to Rename file hello.html to index.html
 
 ```
-## REVIEW HISTORY
-```sh
->> $git log
--  It gives us list of all commits history of current branch
-```
+
 
 ## SAVE FRAGMENTS
 
@@ -78,4 +74,30 @@ This Repository is for only for learning perpose
 ```sh
 >> $git stash list
 -  It gives us list all the last stashed changes
+```
+
+```sh
+>> $git stash drop
+-  It descards most recently shashed changes 
+```
+
+## REVIEW HISTORY
+```sh
+>> $git log
+-  It gives us list of all commits history of current branch
+```
+
+```sh
+>> $git log --follow index.html
+-  It gives us list of all changes of perticuler file on version history including renames
+```
+
+```sh
+>> $git diff master ... main
+-  It gives us the content differences between two branches
+```
+
+```sh
+>> $git show commit
+-  It gives us detail of perticular commit
 ```
