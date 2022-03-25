@@ -2,13 +2,17 @@
 This Repository is for only for learning perpose 
 
 ==========================================================
->> $git config --global user.name "smit"
+```sh
+$git config --global user.name "smit"
+ ```
 - This command is use to attached the name of user who 
    commit
 - In abow case its smit
 
 ==========================================================
->> $git config --global user.email "development0261@gmail.com"
+```sh
+$git config --global user.email "development0261@gmail.com"
+ ```
 - This command is use to attached the email of user who 
    commit
 - In abow case its development0261@gmail.com
