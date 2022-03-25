@@ -111,6 +111,3 @@ This Repository is for only for learning perpose
 >> $git reset --hard commit_name
 -  It Remove every thing after this commit_name
 ```
-
-```sh
->> $git 
