@@ -70,3 +70,12 @@ This Repository is for only for learning perpose
 -  Remove all the changes from the local machine which is not available in version control
 ```
 
+```sh 
+>> $git stash pop
+-  Restore most recently removed file changes
+```
+
+```sh
+>> $git stash list
+-  It gives us list all the last stashed changes
+```
