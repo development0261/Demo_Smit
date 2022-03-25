@@ -101,3 +101,5 @@ This Repository is for only for learning perpose
 >> $git show commit
 -  It gives us detail of perticular commit
 ```
+
+hello i am smit
