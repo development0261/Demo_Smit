@@ -62,3 +62,11 @@ This Repository is for only for learning perpose
 >> $git log
 -  It gives us list of all commits history of current branch
 ```
+
+## SAVE FRAGMENTS
+
+```sh
+>> $git stash
+-  Remove all the changes from the local machine which is not available in version control
+```
+
