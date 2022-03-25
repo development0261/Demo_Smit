@@ -1,7 +1,7 @@
 # Demo_Smit
 This Repository is for only for learning perpose 
 
-==========================================================
+
 ```sh
 >> $git config --global user.name "smit"
  ```
@@ -9,7 +9,7 @@ This Repository is for only for learning perpose
    commit
 - In abow case its smit
 
-==========================================================
+
 ```sh
 >> $git config --global user.email "development0261@gmail.com"
  ```
@@ -17,19 +17,18 @@ This Repository is for only for learning perpose
    commit
 - In abow case its development0261@gmail.com
 
-==========================================================
+
 ```sh
 >> $git init
 ```
 - To create git Repository or initialize project to a git Repository
 
-==========================================================
+
 ```sh
 >> $git clone https://github.com/development0261/Demo_Smit.git
 ```
 - to download the Hole project that exist in "Demo_Smit" Repository
 
-==========================================================
 ```sh
 >> $git status
 ```
@@ -38,7 +37,7 @@ This Repository is for only for learning perpose
 - if you familiar with Django so it work similer as 
    makemigrations
 
-==========================================================
+
 ```sh
 >> $git 
 ```
