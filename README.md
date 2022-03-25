@@ -29,4 +29,4 @@ This Repository is for only for learning perpose
    makemigrations
 
 ==========================================================
->> $git
+>> $git smit
