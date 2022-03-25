@@ -101,6 +101,16 @@ This Repository is for only for learning perpose
 >> $git show commit
 -  It gives us detail of perticular commit
 ```
+## REDO COMMITS
+```sh
+>> $git reset commit_name
+-  It undoes all the commit after perticular commmit_name
+```
 
-hello i am smit
-hello
+```sh
+>> $git reset --hard commit_name
+-  It Remove every thing after this commit_name
+```
+
+```sh
+>> $git 
